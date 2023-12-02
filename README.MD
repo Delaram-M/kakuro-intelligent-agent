@@ -1,0 +1,1 @@
+sample puzzle's source: https://www.kakuros.com/
