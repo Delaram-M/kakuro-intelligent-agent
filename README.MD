@@ -2,7 +2,7 @@
 
 This project includes agents that get a Kakuro puzzle as input and solve it.
 The "unintelligent agent" solves the puzzle using backtracking, and the
-"intelligent agent" uses the Minimum Remaining Values (MRV) heuristic.
+"intelligent agent" uses backtracking and the Minimum Remaining Values (MRV) heuristic.
 
 The program outputs the solution to the puzzle, the time it took the
 unintelligent and intelligent agent to solve the puzzle, and how many
